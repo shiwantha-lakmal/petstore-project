@@ -1,0 +1,16 @@
+{
+  "name": "petstore-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+      "node-fetch": "^3.0.0"
+  },
+  "devDependencies": {
+      "mocha": "^10.0.0",
+      "chai": "^4.0.0"
+  },
+  "scripts": {
+      "test": "mocha"
+  }
+}
